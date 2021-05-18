@@ -1,4 +1,4 @@
-## Welcome to Soren Gran's Github!
+## Welcome to Soren Gran's Homepage!
 
 **I am a Data Analyst in the Washington, DC area.**
 
